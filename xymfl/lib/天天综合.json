@@ -1,0 +1,98 @@
+{
+"站名":"天天综合",
+"主页url":"https://12kkxx.vip/",
+//备用网址:kk521.vip
+"直接播放":"1",
+//"数组":"<div class=\"item\">&&</div>",
+"图片": "data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接": "href=\"&&\"",
+"副标题":"<div class=\"duration\">&&</div>",
+"搜索模式": "1",
+"搜索url":"https://12kkxx.vip/vod/search/page/{pg}/wd/{wd}/",
+//"搜索数组":"<div class=\"item\">&&</div>",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索副标题":"<div class=\"duration\">&&</div>",
+
+"分类":"天天综合$/xjzy/xc-u",
+"分类url":"https://12kkxx.vip/{cateId}-{catePg}/",
+
+"筛选":{
+"/xjzy/xc-u":[
+{
+"key":"cateId",
+"name":"中文资源",
+"value":[
+{"n":"中文无码","v":"/xjzy/xc-u"},
+{"n":"中文综合","v":"/xjzy/xc-v"},
+{"n":"国产综合","v":"/xjzy/xc-2"},
+{"n":"中文近亲","v":"/xjzy/xc-w"},
+{"n":"中文护士","v":"/xjzy/xc-x"},
+{"n":"中文师生","v":"/xjzy/xc-y"},
+{"n":"中文强奸","v":"/xjzy/xc-z"},
+{"n":"明星淫梦","v":"/xjzy/xc-8"},
+{"n":"3D同人", "v":"/xjzy/xc-A"},
+{"n":"三级综合","v":"/xjzy/xc-7"}
+]
+},
+{
+"key":"cateId",
+"name":"国产传媒",
+"value":[
+{"n":"综合传媒","v":"/gccm/jk-b"},
+{"n":"果冻传媒","v":"/gccm/jk-c"},
+{"n":"糖心Vlgo","v":"/gccm/jk-q"},
+{"n":"天美传媒","v":"/gccm/jk-d"},
+{"n":"蜜桃传媒","v":"/gccm/jk-e"},
+{"n":"星空传媒","v":"/gccm/jk-g"},
+{"n":"精东影业","v":"/gccm/jk-h"},
+{"n":"兔子先生","v":"/gccm/jk-k"},
+{"n":"大象传媒","v":"/gccm/jk-n"}
+]
+},
+{
+"key":"cateId",
+"name":"久久热资源",
+"value":[
+{"n":"国产自拍","v":"/99re/hj-kb"},
+{"n":"欧美","v":"/99re/hj-R"},
+{"n":"中文字幕","v":"/99re/hj-S"},
+{"n":"李宗瑞全集","v":"/99re/hj-T"},
+{"n":"日本无码","v":"/99re/hj-U"},
+{"n":"加勒比","v":"/99re/hj-V"},
+{"n":"日本有码","v":"/99re/hj-W"},
+{"n":"一本道","v":"/99re/hj-X"},
+{"n":"高清","v":"/99re/hj-Y"},
+{"n":"潮吹","v":"/99re/hj-bb"},
+{"n":"会员认证作品","v":"/99re/hj-cb"},
+{"n":"制服丝袜","v":"/99re/hj-db"},
+{"n":"口爆颜射","v":"/99re/hj-eb"},
+{"n":"肛交","v":"/99re/hj-fb"},
+{"n":"东京热","v":"/99re/hj-gb"},
+{"n":"小格式综合","v":"/99re/hj-hb"},
+{"n":"女主播系列","v":"/99re/hj-ib"},
+{"n":"成人动漫","v":"/99re/hj-jb"},
+{"n":"SM性虐","v":"/99re/hj-lb"},
+{"n":"韩国综合","v":"/99re/hj-mb"}
+]
+},
+{
+"key":"cateId",
+"name":"废柴网资源",
+"value":[
+{"n":"VIP专区","v":"/fcw/gh-R"},
+{"n":"偷拍系列","v":"/fcw/gh-U"},
+{"n":"国产自拍","v":"/fcw/gh-W"},
+{"n":"日本有码","v":"/fcw/gh-S"},
+{"n":"日本无码","v":"/fcw/gh-T"},
+{"n":"成人动漫","v":"/fcw/gh-V"},
+{"n":"韩国综合","v":"/fcw/gh-X"},
+{"n":"VR专区","v":"/fcw/gh-Y"},
+{"n":"欧美","v":"/fcw/gh-Z"}
+]
+}
+]
+}
+}
